@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunil Kumar B A
-- 👀 I’m interested in Coding and Web Development 
-- 🌱 I’m currently learning Web Development 
+- 👀 I’m very passionate about Web development and Data Science
+- 🌱 Student in CSE(B.E), Siddagnaga Institute of Techology, Tumkur, Karnataka, India - 572103
 - 💞️ I’m looking for Internship
 - 📫 How to reach me sunilkumarba2955@gmail.com
 
