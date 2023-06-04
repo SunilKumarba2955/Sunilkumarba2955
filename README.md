@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sunil Kumar B A
-- 👀 I’m very passionate about Web development
+- 💞️ I’m very passionate about Web development
 - 🌱 Student in CSE(B.E), Siddaganga Institute of Technology, Tumkur, Karnataka, India - 572103
-- 💞️ I’m looking for Internship
+- 👀 I’m looking for Internship
 - 📫 How to reach me sunilkumarba2955@gmail.com
 
 <!---
